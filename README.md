@@ -1,2 +1,4 @@
-# Nemc-Projects
-Proyectos de Nicolás EMC
+# Repositorio de Nicolas EMC
+## Data Analyst | Data Science | Python
+
+
