@@ -3,6 +3,7 @@
 - Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile
 ## Python -> Data Analyst | Data Science | Data Engineer
 
+- Les dejo mi [Linkedin](https://www.linkedin.com/in/nicolas-marquez-c/).
 
 
 
