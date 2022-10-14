@@ -1,7 +1,7 @@
 # Repositorio de Nicolas EMC
 - Ingeniero civil industrial y Licenciado en Ciencias de la Ingenieria
 - Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile
-## Python -> Data Analyst | Data Science | Data Engineer
+## Python -> Data Analyst | Data Science | Data Engineer || SQL || Spark || Excel Advanced Formulas
 
 - Les dejo mi [Linkedin](https://www.linkedin.com/in/nicolas-marquez-c/).
 
