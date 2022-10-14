@@ -1,6 +1,6 @@
 # Repositorio de Nicolas EMC
-### **Ingeniero civil industrial y Licenciado en Ciencias de la Ingenieria**
-### **Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile**
+- Ingeniero civil industrial y Licenciado en Ciencias de la Ingenieria
+- Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile
 ## Python -> Data Analyst | Data Science | Data Engineer
 
 
