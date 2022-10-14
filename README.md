@@ -1,8 +1,12 @@
 # Repositorio de Nicolas EMC
-## Data Analyst | Data Science | Python
+**Ingeniero civil industrial y Licenciado en Ciencias de la Ingenieria**
+**Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile**
+## Python -> Data Analyst | Data Science | Data Engineer
 
 
-### Recordatorio para uplodear Proyectos
+
+
+#### Recordatorio para uplodear Proyectos
  
  **Codigos para Github desde Git:**
          
