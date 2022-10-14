@@ -3,10 +3,10 @@
 
 
 ### Recordatorio para uplodear Proyectos
-    
-        **Codigos para Github desde Git:**
+ 
+ **Codigos para Github desde Git:**
          
-        **git status**  ## Ver modificaciones
+        git status  ## Ver modificaciones
         git add --all  ## Agregar todas las modificaciones
         git commit -m "Texto/titulo de las modificaciones"   ## Nombre Modificaciones
         git push   ## Para subir la información también al github
