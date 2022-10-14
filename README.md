@@ -3,7 +3,9 @@
 
 
 ### Recordatorio para uplodear Proyectos
-    Codigos para Github desde Git:
+    <li> 
+        Codigos para Github desde Git:
+        ::marker 
         git status  ## Ver modificaciones
         git add --all  ## Agregar todas las modificaciones
         git commit -m "Texto/titulo de las modificaciones"   ## Nombre Modificaciones
