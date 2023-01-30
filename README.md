@@ -3,6 +3,11 @@
 - Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile
 ## Python -> Data Analyst | Data Science | Data Engineer || SQL || Spark || Excel Advanced Formulas
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nicolas-marquez-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-marquez-c" height="30" width="40" /></a>
+</p>
+
 - Les dejo mi [Linkedin](https://www.linkedin.com/in/nicolas-marquez-c/).
 
 
