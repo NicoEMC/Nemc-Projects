@@ -1,6 +1,7 @@
 # Repositorio de Nicolas EMC
 - Ingeniero civil industrial y Licenciado en Ciencias de la Ingenieria
 - Diplomado en Bigdata & Machine Learning | Pontificia Universidad Católica de Chile
+- Track Data Engineer with Python | DataCamp Completo 
 ## Python -> Data Analyst | Data Science | Data Engineer || SQL || Spark || Excel Advanced Formulas
 
 <h3 align="left">Les dejo mi Linkedin:</h3>
@@ -8,7 +9,7 @@
 <a href="https://linkedin.com/in/nicolas-marquez-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-marquez-c" height="30" width="40" /></a>
 </p>
 
-#Les dejo mi [Linkedin](https://www.linkedin.com/in/nicolas-marquez-c/).
+
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
