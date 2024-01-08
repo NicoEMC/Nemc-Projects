@@ -12,7 +12,7 @@ Este proyecto toma archivos CSV de estadísticas diarias y consolida la informac
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/NicoEMC/Nemc-Projects/tu-repositorio.git
+git clone https://github.com/NicoEMC/Nemc-Projects/tree/main/Limpieza%20Futbol%20Datos
 ```
 
 ## Archivos Utilizados
