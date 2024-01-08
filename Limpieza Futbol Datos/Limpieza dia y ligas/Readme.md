@@ -25,7 +25,7 @@ En este proyecto, se utilizan los siguientes archivos y recursos:
 ## Estructura de Carpetas
 
 La estructura de carpetas del proyecto es la siguiente:
-
+```
 Tarjetabet/
 |
 ├──  Limpieza_Goles_primer_tiempo.py
@@ -43,3 +43,4 @@ Tarjetabet/
 │ ├── Estadisticas_goles_primer_tiempo_2024-01-07.xlsx
 │
 └── README.md
+```
